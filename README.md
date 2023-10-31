@@ -1,4 +1,4 @@
-# DA350
+# DA350(https://daatdu.github.io/DA350/)
 
 ## Introduction
 This project encompasses the work done in the course DA350: Advanced Methods for Data Analytics. It includes various labs focusing on practical application and analysis using data analytics methods, and a community-based data challenge aimed at contributing to the Etna Township's comprehensive plan.
@@ -53,6 +53,3 @@ The repository contains the documentation and results of the projects in both HT
 
 ```bash
 git clone https://github.com/diii99/DA350.git
-
-
-
